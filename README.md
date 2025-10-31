@@ -60,7 +60,7 @@ The dataset contains the following columns:
 
 ---
 
-## 📊 Results
+## Results
 - Polynomial Regression shows improved performance over Linear Regression.
 - The relationship between degree of polynomial and RMSE is visualized to select the best degree.
 
